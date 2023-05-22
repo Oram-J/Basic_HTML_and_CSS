@@ -66,7 +66,7 @@ h1 {
 /*-------------------------------------------------
        HOVER, TRANSLATE & TRANSFORM EFFECTS
 ---------------------------------------------------*/
-.container .squares:nth-child(-n+4) :hover{
+.container .squares:nth-child(-n+4):hover{
     background-image: url("../images/icons/Jesse.ico");
     transform: scale(.5);
     animation-name: race;
